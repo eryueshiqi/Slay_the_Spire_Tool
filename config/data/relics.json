@@ -1,0 +1,1162 @@
+{
+    "relics": [
+        {
+            "name": "赤牛",
+            "img": "akabeko.webp",
+            "rarity": 2,
+            "role": 5
+        },
+        {
+            "name": "紫水晶茄子",
+            "img": "amethyst_aubergine.webp",
+            "rarity": 1,
+            "role": 5
+        },
+        {
+            "name": "锚",
+            "img": "anchor.webp",
+            "rarity": 1,
+            "role": 5
+        },
+        {
+            "name": "赌博筹码",
+            "img": "gambling_chip.webp",
+            "rarity": 3,
+            "role": 5
+        },
+        {
+            "name": "吃不完的糖",
+            "img": "lasting_candy.webp",
+            "rarity": 3,
+            "role": 5
+        },
+        {
+            "name": "棋子",
+            "img": "game_piece.webp",
+            "rarity": 3,
+            "role": 5
+        },
+        {
+            "name": "孙子兵法",
+            "img": "art_of_war.webp",
+            "rarity": 3,
+            "role": 5
+        },
+        {
+            "name": "奥术卷轴",
+            "img": "arcane_scroll.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "古老牙齿",
+            "img": "archaic_tooth.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "星盘",
+            "img": "astrolabe.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "准备背包",
+            "img": "bag_of_preparation.webp",
+            "rarity": 1,
+            "role": 5
+        },
+        {
+            "name": "弹珠袋",
+            "img": "bag_of_marbles.webp",
+            "rarity": 2,
+            "role": 5
+        },
+        {
+            "name": "华美手镯",
+            "img": "beautiful_bracelet.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "李家华夫饼",
+            "img": "lees_waffle.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "风箱",
+            "img": "bellows.webp",
+            "rarity": 2,
+            "role": 5
+        },
+        {
+            "name": "腰带扣",
+            "img": "belt_buckle.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "大锅",
+            "img": "cauldron.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "大帽子",
+            "img": "big_hat.webp",
+            "rarity": 3,
+            "role": 3
+        },
+        {
+            "name": "大～抱抱",
+            "img": "biiig_hug.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "宾邦",
+            "img": "bing_bong.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "赐福鹿角",
+            "img": "blessed_antler.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "血染玫瑰",
+            "img": "blood_soaked_rose.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "骨笛",
+            "img": "bone_flute.webp",
+            "rarity": 1,
+            "role": 3
+        },
+        {
+            "name": "骨茶",
+            "img": "bone_tea.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "五轮书",
+            "img": "book_of_five_rings.webp",
+            "rarity": 1,
+            "role": 5
+        },
+        {
+            "name": "修书小刀",
+            "img": "book_repair_knife.webp",
+            "rarity": 2,
+            "role": 3
+        },
+        {
+            "name": "小血瓶",
+            "img": "blood_vial.webp",
+            "rarity": 1,
+            "role": 3
+        },
+        {
+            "name": "书签",
+            "img": "bookmark.webp",
+            "rarity": 3,
+            "role": 3
+        },
+        {
+            "name": "缚魂命匣",
+            "img": "bound_phylactery.webp",
+            "rarity": 0,
+            "role": 3
+        },
+        {
+            "name": "硫磺",
+            "img": "brimstone.webp",
+            "rarity": 0,
+            "role": 0
+        },
+        {
+            "name": "铜质鳞片",
+            "img": "bronze_scales.webp",
+            "rarity": 1,
+            "role": 5
+        },
+        {
+            "name": "铜钹",
+            "img": "tingsha.webp",
+            "rarity": 1,
+            "role": 1
+        },
+        {
+            "name": "燃烧木棍",
+            "img": "burning_sticks.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "燃烧之血",
+            "img": "burning_blood.webp",
+            "rarity": 0,
+            "role": 0
+        },
+        {
+            "name": "异鸟宝宝",
+            "img": "byrdpip.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "舵盘",
+            "img": "captains_wheel.webp",
+            "rarity": 3,
+            "role": 5
+        },
+        {
+            "name": "卡戎之灰",
+            "img": "charons_ashes.webp",
+            "rarity": 3,
+            "role": 0
+        },
+        {
+            "name": "恶魔之舌",
+            "img": "demon_tongue.webp",
+            "rarity": 3,
+            "role": 0
+        },
+        {
+            "name": "布制果实",
+            "img": "looming_fruit.webp",
+            "rarity": 4,
+            "role": 0
+        },
+        {
+            "name": "选择悖论",
+            "img": "choices_paradox.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "利爪",
+            "img": "claws.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "斗篷扣",
+            "img": "cloak_clasp.webp",
+            "rarity": 3,
+            "role": 5
+        },
+        {
+            "name": "破损核心",
+            "img": "cracked_core.webp",
+            "rarity": 0,
+            "role": 4
+        },
+        {
+            "name": "十字弓",
+            "img": "crossbow.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "诅咒水壶",
+            "img": "cursed_kettle.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "数据磁盘",
+            "img": "data_disk.webp",
+            "rarity": 1,
+            "role": 4
+        },
+        {
+            "name": "肮脏地毯",
+            "img": "dingy_rug.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "风的女儿",
+            "img": "daughter_of_the_wind.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "卓越斗篷",
+            "img": "distinguished_cape.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "多利之镜",
+            "img": "dollys_mirror.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "火龙果",
+            "img": "dragon_fruit.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "面包",
+            "img": "bread.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "捕梦网",
+            "img": "dream_catcher.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "余烬茶",
+            "img": "ember_tea.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "空鸟笼",
+            "img": "empty_cage.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "永恒羽毛",
+            "img": "eternal_feather.webp",
+            "rarity": 2,
+            "role": 5
+        },
+        {
+            "name": "锚？？？",
+            "img": "fake_anchor.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "奥利哈钢？？？",
+            "img": "fake_orichalcum.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "击剑指南",
+            "img": "fencing_manual.webp",
+            "rarity": 1,
+            "role": 2
+        },
+        {
+            "name": "芒果",
+            "img": "mango.webp",
+            "rarity": 3,
+            "role": 5
+        },
+        {
+            "name": "天赋君权",
+            "img": "divine_right.webp",
+            "rarity": 1,
+            "role": 2
+        },
+        {
+            "name": "遗忘之魂",
+            "img": "forgotten_soul.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "芳香蘑菇",
+            "img": "fragrant_mushroom.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "菲涅耳透镜",
+            "img": "fresnel_lens.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "冻结之蛋",
+            "img": "frozen_egg.webp",
+            "rarity": 3,
+            "role": 5
+        },
+        {
+            "name": "烛台",
+            "img": "candelabra.webp",
+            "rarity": 2,
+            "role": 5
+        },
+        {
+            "name": "节日拉炮",
+            "img": "festive_popper.webp",
+            "rarity": 1,
+            "role": 5
+        },
+        {
+            "name": "葬礼面具",
+            "img": "funerary_mask.webp",
+            "rarity": 2,
+            "role": 3
+        },
+        {
+            "name": "星系尘埃",
+            "img": "galactic_dust.webp",
+            "rarity": 2,
+            "role": 2
+        },
+        {
+            "name": "月亮糕点",
+            "img": "lunar_pastry.webp",
+            "rarity": 2,
+            "role": 2
+        },
+        {
+            "name": "幽灵种子",
+            "img": "ghost_seed.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "壶铃",
+            "img": "girya.webp",
+            "rarity": 3,
+            "role": 5
+        },
+        {
+            "name": "扭曲锤子",
+            "img": "gnarled_hammer.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "护喉甲",
+            "img": "gorget.webp",
+            "rarity": 1,
+            "role": 5
+        },
+        {
+            "name": "手钻",
+            "img": "hand_drill.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "沉重石板",
+            "img": "hefty_tablet.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "螺线飞镖",
+            "img": "helical_dart.webp",
+            "rarity": 3,
+            "role": 1
+        },
+        {
+            "name": "圆顶礼帽",
+            "img": "bowler_hat.webp",
+            "rarity": 2,
+            "role": 1
+        },
+        {
+            "name": "船夹板",
+            "img": "horn_cleat.webp",
+            "rarity": 2,
+            "role": 5
+        },
+        {
+            "name": "注能核心",
+            "img": "infused_core.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "骇人头盔",
+            "img": "intimidating_helmet.webp",
+            "rarity": 3,
+            "role": 5
+        },
+        {
+            "name": "宝石面具",
+            "img": "jeweled_mask.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "百年积木",
+            "img": "centennial_puzzle.webp",
+            "rarity": 1,
+            "role": 5
+        },
+        {
+            "name": "珠宝盒",
+            "img": "jewelry_box.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "金纸",
+            "img": "joss_paper.webp",
+            "rarity": 2,
+            "role": 5
+        },
+        {
+            "name": "木札",
+            "img": "kifuda.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "苦无",
+            "img": "kunai.webp",
+            "rarity": 3,
+            "role": 5
+        },
+        {
+            "name": "巨大扭蛋",
+            "img": "large_capsule.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "熔岩灯",
+            "img": "lava_lamp.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "铅制镇纸",
+            "img": "lead_paperweight.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "蜥蜴尾巴",
+            "img": "lizard_tail.webp",
+            "rarity": 3,
+            "role": 5
+        },
+        {
+            "name": "树叶药膏",
+            "img": "leafy_poultice.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "招财异鱼",
+            "img": "lucky_fysh.webp",
+            "rarity": 2,
+            "role": 5
+        },
+        {
+            "name": "佛珠手链",
+            "img": "juzu_bracelet.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "巨大卷轴",
+            "img": "massive_scroll.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "医药箱",
+            "img": "medical_kit.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "节拍器",
+            "img": "metronome.webp",
+            "rarity": 3,
+            "role": 4
+        },
+        {
+            "name": "情感芯片",
+            "img": "emotion_chip.webp",
+            "rarity": 3,
+            "role": 4
+        },
+        {
+            "name": "镀金缆线",
+            "img": "gold_plated_cables.webp",
+            "rarity": 2,
+            "role": 4
+        },
+        {
+            "name": "迷你储君",
+            "img": "mini_regent.webp",
+            "rarity": 3,
+            "role": 2
+        },
+        {
+            "name": "微型大炮",
+            "img": "miniature_cannon.webp",
+            "rarity": 2,
+            "role": 5
+        },
+        {
+            "name": "熔火之蛋",
+            "img": "molten_egg.webp",
+            "rarity": 3,
+            "role": 5
+        },
+        {
+            "name": "干瘪之手",
+            "img": "mummified_hand.webp",
+            "rarity": 3,
+            "role": 5
+        },
+        {
+            "name": "音乐盒",
+            "img": "music_box.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "谜之茧",
+            "img": "mysterious_cocoon.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "涅奥的护符",
+            "img": "neows_talisman.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "锁镰",
+            "img": "kusarigama.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "涅奥的苦痛",
+            "img": "neows_torment.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "新叶",
+            "img": "new_leaf.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "忍术卷轴",
+            "img": "ninja_scroll.webp",
+            "rarity": 0,
+            "role": 1
+        },
+        {
+            "name": "营养汤",
+            "img": "nutritious_soup.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "意外光滑的石头",
+            "img": "oddly_smooth_stone.webp",
+            "rarity": 1,
+            "role": 5
+        },
+        {
+            "name": "橙色团块",
+            "img": "orange_dough.webp",
+            "rarity": 3,
+            "role": 2
+        },
+        {
+            "name": "奥利哈钢",
+            "img": "orichalcum.webp",
+            "rarity": 2,
+            "role": 5
+        },
+        {
+            "name": "精致折扇",
+            "img": "ornamental_fan.webp",
+            "rarity": 2,
+            "role": 5
+        },
+        {
+            "name": "佩尔之爪",
+            "img": "paels_claw.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "佩尔之眼",
+            "img": "paels_eye.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "佩尔的增生组织",
+            "img": "paels_growth.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "佩尔之角",
+            "img": "paels_horn.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "佩尔的士兵",
+            "img": "paels_legion.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "佩尔之牙",
+            "img": "paels_tooth.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "潘多拉魔盒",
+            "img": "pandoras_box.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "纸鹤",
+            "img": "paper_krane.webp",
+            "rarity": 3,
+            "role": 1
+        },
+        {
+            "name": "纸蛙",
+            "img": "paper_phrog.webp",
+            "rarity": 2,
+            "role": 0
+        },
+        {
+            "name": "招架盾",
+            "img": "parrying_shield.webp",
+            "rarity": 2,
+            "role": 5
+        },
+        {
+            "name": "摆动球",
+            "img": "pendulum.webp",
+            "rarity": 1,
+            "role": 5
+        },
+        {
+            "name": "永冻冰晶",
+            "img": "permafrost.webp",
+            "rarity": 1,
+            "role": 5
+        },
+        {
+            "name": "冰激凌",
+            "img": "ice_cream.webp",
+            "rarity": 3,
+            "role": 5
+        },
+        {
+            "name": "贤者之石",
+            "img": "philosophers_stone.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "无界命匣",
+            "img": "phylactery_unbound.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "橙型香盒",
+            "img": "pomander.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "灯笼",
+            "img": "lantern.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "能量电池",
+            "img": "power_cell.webp",
+            "rarity": 3,
+            "role": 4
+        },
+        {
+            "name": "松动羊毛剪",
+            "img": "precarious_shears.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "精准剪刀",
+            "img": "precise_scissors.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "腌制活雾",
+            "img": "preserved_fog.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "发光珍珠",
+            "img": "radiant_pearl.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "吊灯",
+            "img": "chandelier.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "彩虹戒指",
+            "img": "rainbow_ring.webp",
+            "rarity": 3,
+            "role": 5
+        },
+        {
+            "name": "剃刀牙",
+            "img": "razor_tooth.webp",
+            "rarity": 3,
+            "role": 5
+        },
+        {
+            "name": "红面具",
+            "img": "red_mask.webp",
+            "rarity": 2,
+            "role": 5
+        },
+        {
+            "name": "红头骨",
+            "img": "red_skull.webp",
+            "rarity": 1,
+            "role": 0
+        },
+        {
+            "name": "君王矿石",
+            "img": "regalite.webp",
+            "rarity": 2,
+            "role": 2
+        },
+        {
+            "name": "爬行动物饰品",
+            "img": "reptile_trinket.webp",
+            "rarity": 2,
+            "role": 5
+        },
+        {
+            "name": "三角铃鼓",
+            "img": "ringing_triangle.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "地精之角",
+            "img": "gremlin_horn.webp",
+            "rarity": 2,
+            "role": 5
+        },
+        {
+            "name": "波纹水盆",
+            "img": "ripple_basin.webp",
+            "rarity": 2,
+            "role": 5
+        },
+        {
+            "name": "王室印章",
+            "img": "royal_stamp.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "损毁头盔",
+            "img": "ruined_helmet.webp",
+            "rarity": 3,
+            "role": 0
+        },
+        {
+            "name": "符文金字塔",
+            "img": "runic_pyramid.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "钗",
+            "img": "sai.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "沙堡",
+            "img": "sand_castle.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "尖叫酒壶",
+            "img": "screaming_flagon.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "卷轴箱",
+            "img": "scroll_boxes.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "海玻璃",
+            "img": "sea_glass.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "自成型黏土",
+            "img": "self_forming_clay.webp",
+            "rarity": 2,
+            "role": 0
+        },
+        {
+            "name": "原初之爪",
+            "img": "sere_talon.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "手里剑",
+            "img": "shuriken.webp",
+            "rarity": 3,
+            "role": 5
+        },
+        {
+            "name": "开心小花",
+            "img": "happy_flower.webp",
+            "rarity": 1,
+            "role": 5
+        },
+        {
+            "name": "开信刀",
+            "img": "letter_opener.webp",
+            "rarity": 2,
+            "role": 5
+        },
+        {
+            "name": "化学物X",
+            "img": "chemical_x.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "白银熔炉",
+            "img": "silver_crucible.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "勇气投石索",
+            "img": "sling_of_courage.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "异蛇头骨",
+            "img": "snecko_skull.webp",
+            "rarity": 1,
+            "role": 1
+        },
+        {
+            "name": "蛇之戒指",
+            "img": "ring_of_the_snake.webp",
+            "rarity": 0,
+            "role": 1
+        },
+        {
+            "name": "闪亮口红",
+            "img": "sparkling_rouge.webp",
+            "rarity": 2,
+            "role": 5
+        },
+        {
+            "name": "碎石钻",
+            "img": "stone_cracker.webp",
+            "rarity": 2,
+            "role": 5
+        },
+        {
+            "name": "故事书",
+            "img": "storybook.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "坚固钳子",
+            "img": "sturdy_clamp.webp",
+            "rarity": 3,
+            "role": 5
+        },
+        {
+            "name": "玉之剑",
+            "img": "sword_of_jade.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "共生病毒",
+            "img": "symbiotic_virus.webp",
+            "rarity": 2,
+            "role": 4
+        },
+        {
+            "name": "符文电容器",
+            "img": "runic_capacitor.webp",
+            "rarity": 0,
+            "role": 4
+        },
+        {
+            "name": "坦克斯的哨子",
+            "img": "tanxs_whistle.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "无礼之茶",
+            "img": "tea_of_discourtesy.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "算盘",
+            "img": "the_abacus.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "烘焙手套",
+            "img": "toasty_mittens.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "工具箱",
+            "img": "toolbox.webp",
+            "rarity": 0,
+            "role": 5
+        },
+        {
+            "name": "结实绷带",
+            "img": "tough_bandages.webp",
+            "rarity": 3,
+            "role": 1
+        },
+        {
+            "name": "毒素之蛋",
+            "img": "toxic_egg.webp",
+            "rarity": 3,
+            "role": 5
+        },
+        {
+            "name": "三刃回旋镖",
+            "img": "tri_boomerang.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "音叉",
+            "img": "tuning_fork.webp",
+            "rarity": 2,
+            "role": 5
+        },
+        {
+            "name": "扭曲漏斗",
+            "img": "twisted_funnel.webp",
+            "rarity": 2,
+            "role": 1
+        },
+        {
+            "name": "不休陀螺",
+            "img": "unceasing_top.webp",
+            "rarity": 3,
+            "role": 5
+        },
+        {
+            "name": "不死符文",
+            "img": "undying_sigil.webp",
+            "rarity": 0,
+            "role": 3
+        },
+        {
+            "name": "象牙麻将牌",
+            "img": "ivory_tile.webp",
+            "rarity": 0,
+            "role": 3
+        },
+        {
+            "name": "金刚杵",
+            "img": "vajra.webp",
+            "rarity": 1,
+            "role": 5
+        },
+        {
+            "name": "臂甲",
+            "img": "vambrace.webp",
+            "rarity": 2,
+            "role": 5
+        },
+        {
+            "name": "烦人机关盒",
+            "img": "vexing_puzzlebox.webp",
+            "rarity": 3,
+            "role": 5
+        },
+        {
+            "name": "维特鲁威仆从",
+            "img": "vitruvian_minion.webp",
+            "rarity": 0,
+            "role": 2
+        },
+        {
+            "name": "战锤",
+            "img": "war_hammer.webp",
+            "rarity": 4,
+            "role": 5
+        },
+        {
+            "name": "战纹涂料",
+            "img": "war_paint.webp",
+            "rarity": 1,
+            "role": 5
+        },
+        {
+            "name": "磨刀石",
+            "img": "whetstone.webp",
+            "rarity": 1,
+            "role": 5
+        },
+        {
+            "name": "律动残余",
+            "img": "beating_remnant.webp",
+            "rarity": 3,
+            "role": 5
+        }
+    ]
+}

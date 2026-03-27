@@ -1,0 +1,21 @@
+{
+  "decks":[
+    {
+      "id": 1,
+      "name":"Ironclad Starter Deck",
+      "role": 0,
+      "cards": [
+        {
+          "id": "anger",
+          "name": "Anger",
+          "image": "assets/images/anger.png"
+        },
+        {
+          "id": "anger_plus",
+          "name": "Anger+",
+          "image": "assets/images/anger-upgraded.png"
+        }
+      ]
+    }
+  ]
+}

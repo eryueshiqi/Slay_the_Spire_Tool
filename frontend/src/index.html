@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Slay_the_Spire_2_Tool</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <h1>Slay_the_Spire_2_Tool</h1>
+          <p>Deck Builder Workspace</p>
+        </div>
+        <span id="selectedDeck" class="deck-pill">当前牌组: 未选择</span>
+      </header>
+
+      <main class="content">
+        <section class="panel">
+          <h2>牌组面板</h2>
+          <div class="row">
+            <label for="deckRoleFilter">角色</label>
+            <select id="deckRoleFilter"></select>
+            <button id="refreshDecksBtn">刷新牌组</button>
+          </div>
+          <div class="subhead">当前牌组卡牌统计（按类型分组）</div>
+          <div class="grid mini-grid">
+            <input id="deckTypeKeyword" placeholder="筛选牌组卡牌 id / 名称 / 别名" />
+            <select id="deckTypeFilter"></select>
+            <select id="deckTypeUpgradeFilter"></select>
+          </div>
+          <div class="row">
+            <button id="clearDeckTypeFiltersBtn" class="btn-secondary" type="button">清空统计筛选</button>
+          </div>
+          <div id="deckTypeStats" class="list"></div>
+          <div id="deckList" class="list"></div>
+        </section>
+
+        <section class="panel panel-search">
+          <h2>卡牌检索</h2>
+          <div class="grid">
+            <input id="keyword" placeholder="输入 id / 名称 / 别名" />
+            <select id="cardRoleFilter"></select>
+            <select id="typeFilter"></select>
+            <select id="costFilter"></select>
+            <select id="rarityFilter"></select>
+            <select id="upgradeFilter"></select>
+          </div>
+          <div class="row">
+            <button id="searchCardsBtn">搜索卡牌</button>
+            <button id="clearCardFiltersBtn" class="btn-secondary" type="button">清空条件</button>
+            <span id="cardSearchMeta" class="search-meta"></span>
+          </div>
+          <div id="cardList" class="list card-list"></div>
+        </section>
+
+        <section class="panel">
+          <h2>用户卡组</h2>
+          <div class="row row-between">
+            <button id="clearUserDeckBtn">清空用户卡组</button>
+            <span id="deckCompletionLabel" class="completion-label hidden">牌组构筑完成</span>
+          </div>
+          <div id="userDeck" class="list"></div>
+        </section>
+      </main>
+    </div>
+
+    <div id="cardDetailModal" class="modal hidden" aria-hidden="true">
+      <div class="modal-backdrop" data-close-modal="true"></div>
+      <div class="modal-panel">
+        <button id="closeModalBtn" class="modal-close" type="button">关闭</button>
+        <div class="modal-body">
+          <img id="detailImage" src="" alt="card detail" />
+          <div class="modal-info">
+            <h3 id="detailName">-</h3>
+            <p id="detailID">ID: -</p>
+            <p id="detailAlias">别名: -</p>
+            <p id="detailType">类型: -</p>
+            <p id="detailRole">角色: -</p>
+            <p id="detailCost">费用: -</p>
+            <p id="detailRarity">稀有度: -</p>
+            <p id="detailUpgrade">形态: -</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="completionToast" class="toast hidden" aria-live="polite">
+      目标牌组已完整覆盖，构筑完成
+    </div>
+
+    <script src="./main.js"></script>
+  </body>
+  </html>
